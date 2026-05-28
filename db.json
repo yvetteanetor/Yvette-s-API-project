@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "SM Dip-Dye Hoodie",
+      "description": "Heavy oversized hoodie with hand-dyed gradient effect",
+      "price": 85.00,
+      "category": "hoodies",
+      "stock": 12,
+      "sizes": ["S", "M", "L", "XL"],
+      "createdAt": "2026-05-23T00:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "SM Rhinestone Tee",
+      "description": "Distressed tee with rhinestone SM logo on chest",
+      "price": 45.00,
+      "category": "tees",
+      "stock": 20,
+      "sizes": ["S", "M", "L"],
+      "createdAt": "2026-05-23T00:00:00.000Z"
+    }
+  ]
+}
